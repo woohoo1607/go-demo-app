@@ -3,7 +3,7 @@
 all: build 
 test: unit-test
 
-PLATFORM=linux/amd64 
+PLATFORM=darwin/amd64 
 
 BUILDER = docker
 
